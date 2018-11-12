@@ -1,4 +1,7 @@
 #include "function.hpp"
+#include <iostream>
+
+using namespace std;
 
 class rungeKutta{
 public:
